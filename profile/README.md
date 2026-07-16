@@ -1,33 +1,25 @@
-<div align="center">
-  <h1>Welcome to RumahKita.homes</h1>
-  <p><b>Crafting a unique Minecraft experience through custom development.</b></p>
-</div>
+# Welcome to RumahKita Development
+
+Welcome to the official GitHub organization of **RumahKita**, a dedicated Minecraft Server community. This organization serves as the central hub for our custom plugins, web services, and open-source contributions.
+
+## About Us
+RumahKita is more than just a Minecraft server; it is a community-driven project focused on creating a balanced, highly customized, and immersive gameplay experience. Our development team constantly maintains and innovates our infrastructure to provide the best environment for our players.
+
+## What You'll Find Here
+Most of our repositories contain specialized Java code and server infrastructure tools:
+*   **Custom Core Plugins:** Unique economy, moderation, and trading systems built specifically for our ecosystem.
+*   **API Integrations:** Discord verification bots and website backends.
+*   **Security Tools:** Anti-Xray and Anti-Cheat implementations tailored to our server's needs.
+
+## Repository Policy
+*   **Private Repositories:** Most of our core gameplay and security plugins are kept private to protect the integrity of the server and prevent exploits.
+*   **Open Source:** We occasionally publish utility scripts and non-critical modules for the wider Minecraft developer community to use and learn from.
+
+## Connect With Us
+Want to join the community or talk to our development team?
+*   **Discord:** [Click here to join our Discord Server](#)
+*   **IP Address:** play.rumahkita.id *(Example IP)*
+*   **Website:** [www.rumahkita.id](#) *(Example Link)*
 
 ---
-
-### About Us
-RumahKita started as a passion project to build a server where players truly feel they belong. To achieve the perfect balance and gameplay we envisioned, we decided to step away from off-the-shelf plugins and build our own ecosystem from the ground up. 
-
-This organization is the home for all the custom software that powers our network, ensuring our players get a highly tailored experience they won't find anywhere else.
-
-### What We Build
-Our in-house development focuses on providing robust solutions tailored specifically to our server's needs:
-
-* **Security & Stability:** Custom Anti-Cheat, Anti-Xray, and RAM management to maintain a fair, lag-free environment.
-* **Economy:** A highly scalable, secure, and balanced custom transaction system.
-* **Gameplay Features:** Interactive mechanics like comprehensive Guilds, Capture the Flag, 1v1 PvP arenas, and custom fishing.
-* **Core Utility:** Seamless warping systems, Discord verification, and administrative tools.
-
-### Technology Stack
-All of our development is built on Java utilizing the Spigot and Paper APIs, integrated alongside community standards like Vault and PlaceholderAPI. 
-
----
-
-### Featured Repositories
-* **[plugins](https://github.com/RumahKita-homes/plugins)** | The central, monolithic repository containing the source code for our entire custom plugin ecosystem.
-
----
-
-<div align="center">
-  <i>Building a home for every player, one block at a time.</i>
-</div>
+*Maintained by the RumahKita Development Team.*
