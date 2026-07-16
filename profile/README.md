@@ -6,32 +6,25 @@
 ---
 
 ### About Us
-RumahKita (which translates to "Our Home") started as a passion project to build a Minecraft server where players truly feel like they belong. Over time, we realized that off-the-shelf plugins could only take us so far. To create the specific, balanced, and engaging gameplay we envisioned, we decided to take matters into our own hands.
+RumahKita (meaning "Our Home") started as a passion project to build a server where players truly feel they belong. To achieve the perfect balance and gameplay we envisioned, we decided to step away from off-the-shelf plugins and build our own ecosystem from the ground up. 
 
-This GitHub organization serves as the central hub for all the custom software that powers the RumahKita.homes server network. We build, maintain, and refine our own ecosystem of Spigot and Paper plugins to ensure our players get an experience they cannot find anywhere else.
+This organization is the home for all the custom software that powers our network, ensuring our players get a highly tailored experience they won't find anywhere else.
 
 ### What We Build
-Instead of relying heavily on public plugins, our development team creates in-house solutions tailored exactly to our server's needs. Our custom development spans across several core areas of the game:
+Our in-house development focuses on providing robust solutions tailored specifically to our server's needs:
 
-**Server Security and Stability**
-Maintaining a fair and lag-free environment is our top priority. We develop our own custom Anti-Cheat systems to monitor suspicious behavior, as well as an Anti-Xray solution designed to protect our server's economy without overwhelming the server's hardware. We also utilize a custom RAM management tool to ensure smooth performance during peak hours.
-
-**Economy and Progression**
-A balanced economy is the lifeblood of our server. Our custom EconomyV2 system handles all player transactions, trading, and market dynamics. It is built to be secure and highly scalable, integrating seamlessly with our other features.
-
-**Enhanced Gameplay**
-We love adding unique mechanics to keep the game fresh. Our Guilds plugin allows players to form communities, establish hierarchies, and claim territories. We have also built interactive minigames like Capture the Flag and 1v1 PvP arenas, alongside custom fishing mechanics and farming AI to give players more ways to enjoy their time online.
-
-**Core Infrastructure**
-To tie everything together, we have built a suite of utility plugins. This includes a robust warping system for easy travel, Discord verification to bridge our in-game and out-of-game communities, and administrative tools that help our staff manage the server effectively.
+* **Security & Stability:** Custom Anti-Cheat, Anti-Xray, and RAM management to maintain a fair, lag-free environment.
+* **Economy:** A highly scalable, secure, and balanced custom transaction system (EconomyV2).
+* **Gameplay Features:** Interactive mechanics like comprehensive Guilds, Capture the Flag, 1v1 PvP arenas, and custom fishing.
+* **Core Utility:** Seamless warping systems, Discord verification, and administrative tools.
 
 ### Technology Stack
-All of our plugins are written in Java, utilizing the Spigot and Paper APIs. We also integrate widely-used community resources like Vault and PlaceholderAPI where appropriate. Our development workflow relies on Maven for dependency management and Git for version control.
+All of our development is built on Java utilizing the Spigot and Paper APIs, integrated alongside community standards like Vault and PlaceholderAPI. 
 
 ---
 
-### Repositories
-* **[plugins](https://github.com/RumahKita-homes/plugins)** — This is our main monolithic repository. It contains the source code for the vast majority of our custom server plugins, ranging from minor utilities to our massive Guild and Economy systems.
+### Featured Repositories
+* **[plugins](https://github.com/RumahKita-homes/plugins)** | The central, monolithic repository containing the source code for our entire custom plugin ecosystem.
 
 ---
 
