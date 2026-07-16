@@ -17,9 +17,7 @@ Most of our repositories contain specialized Java code and server infrastructure
 
 ## Connect With Us
 Want to join the community or talk to our development team?
-*   **Discord:** [Click here to join our Discord Server](#)
-*   **IP Address:** play.rumahkita.id *(Example IP)*
-*   **Website:** [www.rumahkita.id](#) *(Example Link)*
+*   **Discord:** [Click here to join our Discord Server](https://discord.gg/MRe3cArvpW)
 
 ---
 *Maintained by the RumahKita Development Team.*
