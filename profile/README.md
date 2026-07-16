@@ -6,7 +6,7 @@
 ---
 
 ### About Us
-RumahKita (meaning "Our Home") started as a passion project to build a server where players truly feel they belong. To achieve the perfect balance and gameplay we envisioned, we decided to step away from off-the-shelf plugins and build our own ecosystem from the ground up. 
+RumahKita started as a passion project to build a server where players truly feel they belong. To achieve the perfect balance and gameplay we envisioned, we decided to step away from off-the-shelf plugins and build our own ecosystem from the ground up. 
 
 This organization is the home for all the custom software that powers our network, ensuring our players get a highly tailored experience they won't find anywhere else.
 
