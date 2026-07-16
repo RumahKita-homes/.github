@@ -14,7 +14,7 @@ This organization is the home for all the custom software that powers our networ
 Our in-house development focuses on providing robust solutions tailored specifically to our server's needs:
 
 * **Security & Stability:** Custom Anti-Cheat, Anti-Xray, and RAM management to maintain a fair, lag-free environment.
-* **Economy:** A highly scalable, secure, and balanced custom transaction system (EconomyV2).
+* **Economy:** A highly scalable, secure, and balanced custom transaction system.
 * **Gameplay Features:** Interactive mechanics like comprehensive Guilds, Capture the Flag, 1v1 PvP arenas, and custom fishing.
 * **Core Utility:** Seamless warping systems, Discord verification, and administrative tools.
 
